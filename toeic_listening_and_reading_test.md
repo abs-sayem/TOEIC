@@ -14,32 +14,32 @@
 * **1. Listening:**
     * Listen to a variety of questions and conversations and answer questions
     * **Total Questions:** 100
-    * Materieals:
-        * Part-1: Photographs
-        * Part-2: Question-Response
-        * Part-3: Conversations
-        * Part-4: Short Talks
+    * **Materieals:**
+        * **Part-1:** Photographs
+        * **Part-2:** Question-Response
+        * **Part-3:** Conversations
+        * **Part-4:** Short Talks
 * **2. Reading:**
     * Read a variety of materials and respond at their own pace
     * **Total Questions:** 100
-    * Materials:
-        * Part-5: Incomplete Sentences
-        * Part-6: Error Recognition or Text Completion
-        * Part-7: Reading Comprehension
+    * **Materials:**
+        * **Part-5:** Incomplete Sentences
+        * **Part-6:** Error Recognition or Text Completion
+        * **Part-7:** Reading Comprehension
 ##### **TOEIC Listening and Reading Score Report**
 * **Provides three reports:**
-    * `listening_score`
-    * `reading_score`
-    * `total_scaled_score = listening_scaled_score + reading_scaled_score`
+    * listening_score
+    * reading_score
+    * total_scaled_score = listening_scaled_score + reading_scaled_score
 ##### **TOEIC Listening and Reading Test Registration**
 * **Two types of test:**
-    * `Public Test:` Three catagories:
+    * **Public Test:** Three catagories:
         * Register in the US
         * Register in the Canada
         * Register outside US or Canada
-        > [registration link](https://www.ets.org/toeic.html)
-    * `Institute Test:`
+        * [for registration clic k here](https://www.ets.org/toeic.html)
+    * **Institute Test:**
         * Managed by the Employer or Institute
-        * For registration contuct with them
+        * `For registration contuct with them`
 ##### **TOEIC Listening and Reading Test Preparation**
-    > [Official Test Preparation Kit](https://www.ets.org/toeic/test-takers/prepare.html)
+* [Official Test Preparation Kit](https://www.ets.org/toeic/test-takers/prepare.html)
