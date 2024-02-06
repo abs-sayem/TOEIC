@@ -2,7 +2,7 @@
 * **Number of Questions:** 11 questions
 * **Time Allowed:** About 20 minutes
 * **Score Scale:** 0-200
-##### **TOEIC Speaking Test Content:**
+#### **TOEIC Speaking Test Content:**
 * **Question No:** (1-2) - Read a text aloud
 * **Task Descroption:**
     * Read out the text on the screen
@@ -35,7 +35,7 @@
     * will give your opinion about a specific topic
     * **Preparation Time:** 15 seconds
     * **Response Time:** 60 seconds
-##### **TOEIC Speaking Test Scores:**
+#### **TOEIC Speaking Test Scores:**
 * `Questions (1-9)   => Scale (0-3)`
 * `Questions (10-11) => Scale (0-5)`
 * The sum of the ratings is converted to a scale of 0-200
@@ -45,7 +45,7 @@
 * **Number of Questions:** 8 questions
 * **Time Allowed:** About 60 minutes
 * **Score Scale:** 0-200
-##### **TOEIC Writing Test Content:**
+#### **TOEIC Writing Test Content:**
 * **Question No:** (1-5) - Write a sentence based on a picture
 * **Task Descroption:**
     * have to write a sentence describing a picture
@@ -59,7 +59,7 @@
 * **Task Descroption:**
     * write an essay in respone to a question that ask you to state, explain and support your opinion on an issue
     * an effictive essay will contain a minimum of 300 words
-##### **TOEIC Writing Test Scores:**
+#### **TOEIC Writing Test Scores:**
 * `Questions (1-5) => Scale (0-3)`
 * `Questions (6-7) => Scale (0-4)`
 * `Questions (8)   => Scale (0-5)`
