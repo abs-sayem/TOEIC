@@ -1,10 +1,10 @@
-##### **TOEIC Listening and Reading Test Structure:**
+### **TOEIC Listening and Reading Test Structure:**
 * **Test Type:** Multiple Choice Questions
 * **Test Time:** 2.30 hours
     * 45 minutes for Listening
     * 75 minutes for Reading
     * 30 minutes for Biographical Questions
-##### **TOEIC Listening and Reading Test Content:**
+#### **TOEIC Listening and Reading Test Content:**
 * **1. Listening:**
     * Listen to a variety of questions and conversations and answer questions
     * **Total Questions:** 100
@@ -20,12 +20,12 @@
         * **Part-5:** Incomplete Sentences
         * **Part-6:** Error Recognition or Text Completion
         * **Part-7:** Reading Comprehension
-##### **TOEIC Listening and Reading Score Report:**
+#### **TOEIC Listening and Reading Score Report:**
 * **Provides three reports:**
     * listening_score
     * reading_score
     * total_scaled_score = listening_scaled_score + reading_scaled_score
-##### **TOEIC Listening and Reading Test Registration:**
+#### **TOEIC Listening and Reading Test Registration:**
 * **Two types of test:**
     * **Public Test:** Three catagories: [For registration click here](https://www.ets.org/toeic.html)
         * Register in the US
@@ -34,4 +34,4 @@
     * **Institute Test:**
         * Managed by the Employer or Institute
         * `For registration contact with them`
-##### **TOEIC Listening and Reading Test Preparation:** [Official Test Preparation Kit](https://www.ets.org/toeic/test-takers/prepare.html)
+#### **TOEIC Listening and Reading Test Preparation:** [Official Test Preparation Kit](https://www.ets.org/toeic/test-takers/prepare.html)
