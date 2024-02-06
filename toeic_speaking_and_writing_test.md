@@ -1,4 +1,4 @@
-#### **TOEIC Speaking Test Format:**
+### **TOEIC Speaking Test Format:**
 * **Number of Questions:** 11 questions
 * **Time Allowed:** About 20 minutes
 * **Score Scale:** 0-200
@@ -36,13 +36,12 @@
     * `Preparation Time:` 15 seconds
     * `Response Time:`: 60 seconds
 ##### **TOEIC Speaking Test Scores:**
-* **Questions | Scale**
-*      1-9    |  0-3
-*     10-11   |  0-5
+* Questions (1-9) => Scale (0-3)
+* Questions (10-11) => Scale (0-5)
 * The sum of the ratings is converted to a scale of 0-200
 * Eight proficiency levels are provided
 
-#### **TOEIC Writing Test Format:**
+### **TOEIC Writing Test Format:**
 * **Number of Questions:** 8 questions
 * **Time Allowed:** About 60 minutes
 * **Score Scale:** 0-200
@@ -61,9 +60,8 @@
     * write an essay in respone to a question that ask you to state, explain and support your opinion on an issue
     * an effictive essay will contain a minimum of 300 words
 ##### **TOEIC Writing Test Scores:**
-* **Questions | Scale**
-*      1-5    |  0-3
-*      6-7    |  0-4
-*       8     |  0-5
+* Questions (1-5) => Scale (0-3)
+* Questions (6-7) => Scale (0-4)
+* Questions (8) => Scale (0-5)
 * The sum of the ratings is converted to a scale of 0-200
 * Nine proficiency levels are provided
