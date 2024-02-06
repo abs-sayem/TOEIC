@@ -27,7 +27,7 @@
 * **Task Descroption:**
     * Will present a problem and ask to propose a solution
     * **Response Time:** 60 seconds
-    * **`[NB]:`** While responding, make sure to-
+    * **[NB]:** While responding, make sure to-
         * show that you recognize the problem
         * propose a way of dealing with the problem
 * **Question No:** (11) - Express an opinion
@@ -36,8 +36,8 @@
     * **Preparation Time:** 15 seconds
     * **Response Time:** 60 seconds
 ##### **TOEIC Speaking Test Scores:**
-* Questions (1-9) => Scale (0-3)
-* Questions (10-11) => Scale (0-5)
+* `Questions (1-9)   => Scale (0-3)`
+* `Questions (10-11) => Scale (0-5)`
 * The sum of the ratings is converted to a scale of 0-200
 * Eight proficiency levels are provided
 
