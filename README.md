@@ -4,3 +4,5 @@
 * **TOEIC Listening and Reading Test**
 * **TOEIC Speaking and Writing Test**
 * **TOEIC Bridge Test**
+
+* **[Test Preperation Guideline](https://www.ets.org/toeic/test-takers/prepare.html)**
