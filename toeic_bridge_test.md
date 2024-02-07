@@ -35,3 +35,4 @@
     * Respond to a brief message (1 question)
     * Write a narrative (1 question)
     * Respond to an extended message (1 question)
+##### **[Test Registration Link](https://www.ets.org/toeic.html)**

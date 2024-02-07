@@ -27,11 +27,10 @@
     * total_scaled_score = listening_scaled_score + reading_scaled_score
 #### **TOEIC Listening and Reading Test Registration:**
 * **Two types of test:**
-    * **Public Test:** Three catagories: [For registration click here](https://www.ets.org/toeic.html)
+    * **Public Test:** Three catagories: **[Test Registration Link](https://www.ets.org/toeic.html)**
         * Register in the US
         * Register in the Canada
         * Register outside US or Canada
     * **Institute Test:**
         * Managed by the Employer or Institute
-        * `For registration contact with them`
-#### **TOEIC Listening and Reading Test Preparation:** [Official Test Preparation Kit](https://www.ets.org/toeic/test-takers/prepare.html)
+        * `For details info contact with the institute`

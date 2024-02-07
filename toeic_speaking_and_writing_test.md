@@ -65,3 +65,4 @@
 * `Questions (8)   => Scale (0-5)`
 * The sum of the ratings is converted to a scale of 0-200
 * Nine proficiency levels are provided
+##### **[Test Registration Link](https://www.ets.org/toeic.html)**
